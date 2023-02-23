@@ -1,13 +1,13 @@
-#E-commerce Back End
+# E-commerce Back End
 
-##Description
+## Description
 A command line, node powered employee tracker that uses SQL to maintian an human resources database.
 
-##Getting Started
+## Getting Started
 Start by prompting npm server.
 
-##Authors
+## Authors
 Chris Lemmon
 
-##Acknowledgments
+## Acknowledgments
 Created during a study-group session
